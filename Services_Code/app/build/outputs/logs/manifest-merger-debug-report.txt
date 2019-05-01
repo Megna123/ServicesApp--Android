@@ -1,0 +1,85 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:3:7-43
+		INJECTED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:9:22-77
+application
+ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:10:5-27:19
+	android:label
+		ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:10:48-80
+	android:icon
+		ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:10:18-47
+activity#net.learn2develop.Services.MainActivity
+ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:label
+		ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:12:19-51
+	android:name
+		ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:15:27-74
+service#net.learn2develop.Services.MyService
+ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:18:9-22:19
+	android:name
+		ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:18:18-43
+intent-filter#net.learn2develop.MyService
+ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:19:13-21:29
+action#net.learn2develop.MyService
+ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:20:17-70
+	android:name
+		ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:20:25-67
+service#net.learn2develop.Services.MyIntentService
+ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:26:9-52
+	android:name
+		ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml:26:18-49
+uses-sdk
+INJECTED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shish\Downloads\Services1\Services1\app\src\main\AndroidManifest.xml

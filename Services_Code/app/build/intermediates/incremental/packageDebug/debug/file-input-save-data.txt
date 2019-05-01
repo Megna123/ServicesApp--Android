@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Thu Mar 14 16:05:00 PDT 2019
+2.base=C\:\\Users\\Shish\\Downloads\\Services1\\Services1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16
+5.file=C\:\\Users\\Shish\\Downloads\\Services1\\Services1\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Shish\\Downloads\\Services1\\Services1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+6.file=C\:\\Users\\Shish\\Downloads\\Services1\\Services1\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+2.set=DEX
+10.set=DEX
+10.file=C\:\\Users\\Shish\\Downloads\\Services1\\Services1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13\\classes.dex
+4.base=C\:\\Users\\Shish\\Downloads\\Services1\\Services1\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+7.file=C\:\\Users\\Shish\\Downloads\\Services1\\Services1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12\\classes.dex
+7.set=DEX
+count=11
+0.file=C\:\\Users\\Shish\\Downloads\\Services1\\Services1\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\AndroidManifest.xml
+5.base=C\:\\Users\\Shish\\Downloads\\Services1\\Services1\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+8.file=C\:\\Users\\Shish\\Downloads\\Services1\\Services1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15\\classes.dex
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\Shish\\Downloads\\Services1\\Services1\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+1.file=C\:\\Users\\Shish\\Downloads\\Services1\\Services1\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\main.xml
+9.set=DEX
+9.file=C\:\\Users\\Shish\\Downloads\\Services1\\Services1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14\\classes.dex
+10.base=C\:\\Users\\Shish\\Downloads\\Services1\\Services1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\Shish\\Downloads\\Services1\\Services1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+2.file=C\:\\Users\\Shish\\Downloads\\Services1\\Services1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16\\classes.dex
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Shish\\Downloads\\Services1\\Services1\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+8.base=C\:\\Users\\Shish\\Downloads\\Services1\\Services1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15
+3.file=C\:\\Users\\Shish\\Downloads\\Services1\\Services1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11\\classes.dex
+3.set=DEX
+1.base=C\:\\Users\\Shish\\Downloads\\Services1\\Services1\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+9.base=C\:\\Users\\Shish\\Downloads\\Services1\\Services1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
+4.file=C\:\\Users\\Shish\\Downloads\\Services1\\Services1\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-hdpi-v4\\image.JPG
+8.set=DEX
+0.set=ANDROID_RESOURCE

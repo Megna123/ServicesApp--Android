@@ -1,0 +1,188 @@
+ <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#265557"
+        android:padding="8dip"
+        >
+
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="373dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/image" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/icon"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_horizontal"
+                android:paddingBottom="16dip"
+                android:text="PDF Download Activity"
+                android:textColor="#fff"
+                android:textSize="25dp" />
+        </RelativeLayout>
+     <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center_horizontal"
+         android:layout_marginTop="20dp"
+         android:orientation="vertical"
+         android:layout_marginLeft="8dp"
+         android:layout_marginRight="8dp">
+
+      <TextView
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+          android:text="Please provide list of SJSU PDFs to download"
+          android:textSize="20dp"
+          android:textColor="#fff"/>
+     </RelativeLayout>
+
+     <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:orientation="vertical"
+         android:layout_marginTop="20dp"
+         android:layout_marginLeft="8dp"
+         android:layout_marginRight="8dp">
+
+     <TextView
+         android:layout_width="wrap_content"
+         android:id="@+id/txt1"
+         android:layout_height="40dp"
+         android:text="PDF File1 Location:"
+         android:textColor="#fff"
+         android:textSize="15dp"/>
+
+     <EditText
+         android:layout_width="fill_parent"
+         android:layout_height="40dp"
+         android:layout_toRightOf="@id/txt1"
+         android:id="@+id/file1"
+         android:textSize="15dp"
+         android:text="http://www.sjsu.edu/enrollmentservices/ESPubs/SJSU%20International%20Steps%20to%20Admission%20Fall%202018.pdf"/>
+
+     </RelativeLayout>
+
+     <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:orientation="vertical"
+         android:layout_marginLeft="8dp"
+         android:layout_marginRight="8dp">
+
+         <TextView
+             android:layout_width="wrap_content"
+             android:id="@+id/txt2"
+             android:layout_height="40dp"
+             android:text="PDF File2 Location:"
+             android:textColor="#fff"
+             android:textSize="15dp"/>
+
+         <EditText
+             android:layout_width="fill_parent"
+             android:layout_height="40dp"
+             android:layout_toRightOf="@id/txt2"
+             android:id="@+id/file2"
+             android:textSize="15dp"
+             android:text="http://www.sjsu.edu/isystems/docs/SJSU_campus_map.pdf
+"/>
+
+     </RelativeLayout>
+     <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:orientation="vertical"
+         android:layout_marginLeft="8dp"
+         android:layout_marginRight="8dp">
+
+         <TextView
+             android:layout_width="wrap_content"
+             android:id="@+id/txt3"
+             android:layout_height="40dp"
+             android:text="PDF File3 Location:"
+             android:textColor="#fff"
+             android:textSize="15dp"/>
+
+         <EditText
+             android:layout_width="fill_parent"
+             android:layout_height="40dp"
+             android:layout_toRightOf="@id/txt3"
+             android:id="@+id/file3"
+             android:textSize="15dp"
+             android:text="http://www.sjsu.edu/finance/docs/travel_guide.pdf"/>
+
+     </RelativeLayout>
+
+     <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:orientation="vertical"
+         android:layout_marginLeft="8dp"
+         android:layout_marginRight="8dp">
+
+         <TextView
+             android:layout_width="wrap_content"
+             android:id="@+id/txt4"
+             android:layout_height="40dp"
+             android:text="PDF File4 Location:"
+             android:textColor="#fff"
+             android:textSize="15dp"/>
+
+         <EditText
+             android:layout_width="fill_parent"
+             android:layout_height="40dp"
+             android:layout_toRightOf="@id/txt4"
+             android:id="@+id/file4"
+             android:textSize="15dp"
+             android:text="http://www.sjsu.edu/isa/docs/declaration_of_finance.pdf"/>
+
+     </RelativeLayout>
+
+     <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:orientation="vertical"
+         android:layout_marginLeft="8dp"
+         android:layout_marginRight="8dp">
+
+         <TextView
+             android:layout_width="wrap_content"
+             android:id="@+id/txt5"
+             android:layout_height="40dp"
+             android:text="PDF File5 Location:"
+             android:textColor="#fff"
+             android:textSize="15dp"/>
+
+         <EditText
+             android:layout_width="fill_parent"
+             android:layout_height="40dp"
+             android:layout_toRightOf="@id/txt5"
+             android:id="@+id/file5"
+             android:textSize="15dp"
+             android:text="http://www.sjsu.edu/avtech/docs/syllabi/tech_140_f13.pdf"/>
+
+     </RelativeLayout>
+
+
+     <Button
+         android:id="@+id/btnStartService"
+         android:layout_width="275dp"
+         android:layout_height="50dp"
+         android:layout_marginTop="40dp"
+         android:layout_marginLeft="55dp"
+         android:background="#ffff00"
+         android:text="Start Service"
+         android:textColor="#000"/>
+
+</LinearLayout>
